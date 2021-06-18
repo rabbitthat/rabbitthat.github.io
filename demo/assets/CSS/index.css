@@ -230,7 +230,7 @@ input {
 footer {
 
   position: absolute;
-  bottom: 0
+  bottom: 0;
   background-color: #9a8c98;
   height: 150px;
   width: 100%;
