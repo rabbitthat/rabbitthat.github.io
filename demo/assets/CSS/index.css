@@ -180,12 +180,7 @@ input {
   cursor: pointer;
   position: absolute;
 }
-.go{
-  height: 40px;
-  width: 40px;
-  cursor: pointer;
-  position: absolute;
-}
+
 
 .search_bar form {
   height: 40px;
@@ -226,14 +221,21 @@ input {
   font-size: 20px;
   color: #ffffff;
 }
+html {
+    min-height: 100%;
+    position: relative;
+}
 
-footer {
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 80px;
+}
 
-  position: absolute;
-  bottom: 0;
-  background-color: #9a8c98;
-  height: 150px;
-  width: 100%;
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 80px;
 }
 
 .down {
