@@ -221,15 +221,6 @@ input {
   font-size: 20px;
   color: #ffffff;
 }
-html {
-    min-height: 100%;
-    position: relative;
-}
-
-body {
-    /* Margin bottom by footer height */
-    margin-bottom: 80px;
-}
 
 footer {
     position: absolute;
