@@ -1,0 +1,129 @@
+.ttlog {
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+  margin-left: 200px;
+  font-weight: bold;
+  color: #8f2d56;
+  text-shadow: 0.1em 0.1em 0.2em #1b4965;
+  font-family: cursive;
+  align-content: center;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+
+.content>img {
+  max-width: 230px;
+  max-height: 230px;
+  overflow: hidden;
+  margin-bottom: 50px;
+  border: solid 2px #a98467;
+}
+
+.content>img:hover {
+  transform: scale(1.1);
+  transform: .1s;
+}
+
+
+.footsize {
+  border: solid 5px #78290f;
+  width: 200px;
+  margin: 25px auto;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  padding: 10px;
+  margin: auto;
+  width: 900px;
+  height: 1500px;
+  margin-left: 140px;
+  margin-bottom: 120px;
+}
+
+.logt {
+  font-size: 37px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bold;
+  margin-left: -20px;
+  color: #ada7c9;
+  align-content: center;
+}
+
+.log_se {
+  font-size: 28px;
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -20px;
+  color: #a71e34;
+  font-family: cursive;
+  align-content: center;
+}
+
+.note {
+  font-size: 22px;
+  margin-top: 30px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: bolder;
+  margin-left: -20px;
+  color: #111111;
+  line-height: 2;
+  letter-spacing: 2;
+  word-spacing: 2;
+}
+
+.push {
+  border: solid 3px #ef8354;
+  margin: 25px auto;
+  border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+  padding: 10px;
+  margin: auto;
+  width: 1000px;
+  height: 450px;
+  margin-left: 140px;
+  margin-bottom: 120px;
+}
+
+.ser {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.ser>img {
+  max-width: 130px;
+  max-height: 130px;
+  overflow: hidden;
+  margin-top: 40px;
+  margin-left: -20px;
+  margin-bottom: 100px;
+}
+
+.ser>img:hover {
+  transform: scale(1.2);
+}
+
+.final_word {
+  font-size: 18px;
+  color: #0e103d;
+  background-color: #f2d7ee;
+  margin-left: 350px;
+  width: 600px;
+  height: 30px;
+  font-family: 標楷體;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+}
